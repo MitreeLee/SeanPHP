@@ -1,4 +1,4 @@
-##SeanPHP
+# SeanPHP
 
 一个简单的PHP框架
 
@@ -6,7 +6,7 @@ version: 1.0.0
 
 description: 实现了一个MVC PHP框架，目前仅支持URL重写下的路由分发，仅支持单模块，前端模板基于Smarty3定制
 
-##目录结构
+## 目录结构
 
 ├─ app                  模块框架
 
